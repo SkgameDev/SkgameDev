@@ -8,11 +8,8 @@
 <p align="center">
   <a href="https://skgamedev.github.io"><img src="https://img.shields.io/badge/Website-skgamedev.github.io-2d7ff9?style=flat-square" alt="Website"></a>
   <a href="mailto:skgamedev025@gmail.com"><img src="https://img.shields.io/badge/Email-skgamedev025%40gmail.com-c14438?style=flat-square" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/saikrishnareddy-gamedev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square" alt="LinkedIn"></a>
 </p>
-
-<!-- Add this LinkedIn badge inside the <p> above once you have your profile URL:
-  <a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square" alt="LinkedIn"></a>
--->
 
 ---
 
